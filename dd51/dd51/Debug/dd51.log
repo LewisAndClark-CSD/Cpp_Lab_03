@@ -1,0 +1,15 @@
+﻿Build started 2/2/2015 6:31:27 AM.
+Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\dd51\dd51.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\dd51.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dd51.cpp
+  dd51.cpp
+c:\users\ieuser\documents\visual studio 2013\projects\dd51\dd51\dd51.cpp(68): warning C4129: 'W' : unrecognized character escape sequence
+Link:
+  C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\Debug\dd51.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\Debug\dd51.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\Debug\dd51.lib" /MACHINE:X86 Debug\dd51.obj
+  Debug\stdafx.obj
+  dd51.vcxproj -> C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\Debug\dd51.exe
+Done Building Project "C:\Users\IEUser\Documents\Visual Studio 2013\Projects\dd51\dd51\dd51.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06
