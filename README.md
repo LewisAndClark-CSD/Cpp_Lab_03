@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# Trivia_Challenge
+A trivia Challenge game written in C++
+=======
 # Cpp_Lab_03
 convert the tic tac toe game
 
@@ -10,3 +14,4 @@ name your project:
 
 #Lab3_1
 
+>>>>>>> d715551b9ed5b8a5aeb15dcefb1708f975b21956
