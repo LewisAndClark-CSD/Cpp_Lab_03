@@ -1,5 +1,5 @@
 // TriviaChallenge.cpp : A Trivia Challenge using arrays.
-//
+//Matt Jones Andrew Rotton
 
 #include "stdafx.h"
 #include <iostream>
